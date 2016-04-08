@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web | My Octopress Blog]]></title>
+  <link href="http://zicunren.github.io/blog/categories/web/atom.xml" rel="self"/>
+  <link href="http://zicunren.github.io/"/>
+  <updated>2016-04-08T22:43:35+08:00</updated>
+  <id>http://zicunren.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ZIHUA]]></title>
+    <link href="http://zicunren.github.io/blog/2016/04/04/zihua/"/>
+    <updated>2016-04-04T23:12:52+08:00</updated>
+    <id>http://zicunren.github.io/blog/2016/04/04/zihua</id>
+    <content type="html"><![CDATA[<h1>你好 ZIHUA</h1>
+
+<h2>你可以学到什么</h2>
+]]></content>
+  </entry>
+  
+</feed>
