@@ -1,0 +1,24 @@
+
+
+git clone https://github.com/imathis/octopress.git octopress
+ 添加软件源 gem sources -a http://ruby.taobao.com
+ -r 移除
+ -l 查看
+
+ gem install bundler
+ bundler install
+ https://gems.ruby-china.org/
+
+ rake install
+
+ rake generate
+
+ rake preview
+
+ rake new_post['ZIHUA']
+
+ 建立仓库
+ zicunren.github.io
+
+ 与本地Octopress目录绑定
+ rake setup_github_pages  -->  git@github.com:your_username/your_username.github.io.git
